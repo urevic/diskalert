@@ -9,7 +9,7 @@ defined in this file in settings.py
 
 import socket
 
-SEND_NOTIFICATIONS_BY_EMAIL = False
+SEND_NOTIFICATIONS_BY_EMAIL = True
 EMAIL_FROM = 'root@' + socket.gethostname()
 EMAIL_TO = 'you@example.com'
 SMTP = 'localhost'
