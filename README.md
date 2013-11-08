@@ -13,7 +13,7 @@ Instalation
 
 1. Clone this repository and 
 
-    `git clone git@github.com:urevic/diskalert.git`
+    `git clone git://github.com/urevic/diskalert.git`
     
 2. Rename settings.py.example to settings.py
 
