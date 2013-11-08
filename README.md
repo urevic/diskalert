@@ -15,9 +15,9 @@ Instalation
 
     `git clone git://github.com/urevic/diskalert.git`
     
-2. Rename settings.py.example to settings.py
+2. Copy settings.py.example to settings.py
 
-    `mv ./settings.py.example ./settings.py`
+    `cp ./settings.py.example ./settings.py`
 
 3. Edit settings.py. For most usage scenarios you have to change the email where you want to recieve notifications and
    probably the threshold for notifications
