@@ -1,3 +1,7 @@
+# Local
+settings.py
+
+# Python
 *.py[cod]
 
 # C extensions
@@ -29,6 +33,10 @@ nosetests.xml
 
 # Translations
 *.mo
+
+# Vim
+*.sw[po]
+.ropeproject
 
 # Mr Developer
 .mr.developer.cfg

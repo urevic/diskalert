@@ -1,0 +1,9 @@
+"""
+Config file for diskalert
+Rename it to settings.py and edit
+"""
+
+from base_settings import *
+
+EMAIL_TO = 'you@exmaple.com'
+NOTIFY_IF_USAGE_GREATER_THAN = 90  # percents
