@@ -4,8 +4,8 @@ diskalert
 Script for free disk space monitoring
 -------------------------------------
 
-Have you ever been in a situaion when you plenty of disk space, but thousands of small files
-ate all your inodes? Unlike many others this script monitors output of both df -h and df -i, so
+Have you ever been in a situaion when you have plenty of disk space, but thousands of small files
+ate all of your inodes? Unlike many others this script monitors output of both df -h and df -i, so
 you'll be notified when you're either out of space or out of inodes.
 
 Instalation
